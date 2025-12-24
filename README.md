@@ -1,5 +1,5 @@
 # 💫 About Me:
-Aspiring software developer from Argentina 🇦🇷​ >FullStack developer
+Aspiring software developer from Argentina 🇦🇷​ FullStack developer
 
 
 ## 🌐 Socials:
