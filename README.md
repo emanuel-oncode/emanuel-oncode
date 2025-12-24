@@ -1,7 +1,8 @@
 <p align="center" width="300">
   <h3>¡Hola 👋! Soy Esteban<h3>
 </p>
-<br>Apasionado por la programacion y el desarrollo de software<br>En busca de nuevos conosimientos<br>De Argentina 🇦🇷 FullStack web Developer
+
+Apasionado por la programacion y el desarrollo de software<br>En busca de nuevos conosimientos<br>De Argentina 🇦🇷 FullStack web Developer
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:esteban.emanuel.flores@gmail.com) 
