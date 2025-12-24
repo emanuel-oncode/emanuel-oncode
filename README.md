@@ -1,6 +1,5 @@
 # 💫 About Me:
-Apasionado por la programacion y el desarrollo de software, en busca de nuevos conosimientos
-De Argentina 🇦🇷 FullStack web Developer
+Apasionado por la programacion y el desarrollo de software<br>En busca de nuevos conosimientos<br>De Argentina 🇦🇷 FullStack web Developer
 
 
 ## 🌐 Socials:
