@@ -1,5 +1,6 @@
 # 💫 About Me:
-Aspiring software developer from Argentina 🇦🇷​ FullStack developer
+Apasionado por la programacion y el desarrollo de software, en busca de nuevos conosimientos
+De Argentina 🇦🇷 FullStack web Developer
 
 
 ## 🌐 Socials:
